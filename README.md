@@ -1,1 +1,1 @@
-# Mini-Project-PPS-Library-Management
+Library-Management-System
